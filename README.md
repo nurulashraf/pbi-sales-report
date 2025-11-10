@@ -57,7 +57,7 @@ A tree map that visualises which counties contribute most to total profit.
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/sales_dashboard_overview.png)
+![Sales Performance Dashboard](screenshots/dashboard_overview.png)
 
 ---
 
