@@ -66,10 +66,3 @@ A tree map that visualises which counties contribute most to total profit.
 All data used is **sampled and anonymised**.  
 This report was created purely for learning and portfolio demonstration.
 
----
-
-## 💬 Author
-
-Created by [**Nurul Ashraf**](https://github.com/nurulashraf)  
-Part of a Power BI portfolio showcasing data analytics, DAX, and dashboard design skills.
-
